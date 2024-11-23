@@ -100,7 +100,7 @@ source /cadence/install/cshrc (mention the path of the tools)
       
 After this you can see the window like below 
 
-![image](https://github.com/user-attachments/assets/182677bd-5866-4d9c-8147-96eac55d1c7f)
+![image](https://github.com/user-attachments/assets/32e4e5e6-128a-4e7b-8706-a031a2f0753c)
 
 ### Fig 2: Invoke the Cadence Environment
 
@@ -115,7 +115,7 @@ or
 
 It will invoke the nclaunch window for functional simulation we can compile,elaborate and simulate it using Multiple Step .
 
-![image](https://github.com/user-attachments/assets/ba1d2b52-bb4d-44fc-82bb-eacfd585acc2)
+![image](https://github.com/user-attachments/assets/40a14e60-f57b-4ddc-8294-d74fa3f6f226)
 
 ### Fig 3: Setting Multi-step simulation
 
@@ -123,7 +123,7 @@ Select Multiple Step and then select “Create cds.lib File” as shown in below
 
 Click the cds.lib file and save the file by clicking on Save option 
 
-![image](https://github.com/user-attachments/assets/a0a62f3e-3494-482e-bd5c-e1a808dbdcbe)
+![Screenshot 2024-11-22 222628](https://github.com/user-attachments/assets/2c401f37-6492-4800-971f-707414a8bacf)
 
 ### Fig 4:cds.lib file Creation
 
@@ -135,7 +135,7 @@ We are simulating verilog design without using any libraries
 
 A Click “OK” in the “nclaunch: Open Design Directory” window as shown in below figure 
 
-![image](https://github.com/user-attachments/assets/d5202b97-ee5c-4e0e-9eaf-5f3fa733e546)
+![Screenshot 2024-11-22 222556](https://github.com/user-attachments/assets/21035a37-04f3-4862-bf26-1f8e6e7567b7)
 
 ### Fig 5: Selection of Don’t include any libraries
 
@@ -173,7 +173,7 @@ Left side select the file and in Tools : launch verilog compiler with current se
 
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation 
 
-![image](https://github.com/user-attachments/assets/3d773210-9e83-4a3a-90df-15f545873115)
+![Screenshot 2024-11-22 224140](https://github.com/user-attachments/assets/0d307713-64bb-4ea7-bfe9-ca85f94e5858)
 
 ### Fig 7: Compiled database in worklib
 
@@ -209,7 +209,7 @@ Outputs: Elaborate database updated in mapped library if successful, generates r
 
 After elaboration the file will come under snapshot. Select the test bench and simulate it.
 
-![image](https://github.com/user-attachments/assets/760aa21b-9719-4c52-84e8-82bf3c18120c)
+![Screenshot 2024-11-22 224202](https://github.com/user-attachments/assets/56015b89-7852-4734-9a51-256d030bd41d)
 
 ### Fig 8: Elaboration Launch Option
 
